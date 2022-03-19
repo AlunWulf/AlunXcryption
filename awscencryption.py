@@ -134,5 +134,5 @@ def pwn():
 if __name__ == '__main__':
     subprocess.call('clear')
     print
-    "Executing FuxSocy"
+    "Executing AlunXcryption"
     pwn()
