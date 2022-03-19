@@ -18,6 +18,7 @@ def becareful():
         print("verification code verified, in progress...")
     else:
         print("The verification code is incorrect")
+        exit()
 
 
 becareful()
